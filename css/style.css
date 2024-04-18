@@ -1,0 +1,15 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-color: burlywood;
+
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
